@@ -45,12 +45,12 @@ hasCJKLanguage = true
     url = "https://github.com/Gibatron"
     weight = 30
 
-#[[menu.main]]
-#    identifier = "discord"
-#    # name = "Discord"
-#    pre = "<i class='fab fa-discord fa-lg'></i>"
-#    url = ""
-#    weight = 40
+[[menu.main]]
+    identifier = "discord"
+    # name = "Discord"
+    pre = "<i class='fab fa-discord fa-lg'></i>"
+    url = "https://discord.com/users/219561157327847424"
+    weight = 40
 
 [[menu.main]]
     identifier = "email"
