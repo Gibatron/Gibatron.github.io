@@ -46,13 +46,6 @@ hasCJKLanguage = true
     weight = 30
 
 [[menu.main]]
-    identifier = "discord"
-    # name = "Discord"
-    pre = "<i class='fab fa-discord fa-lg'></i>"
-    url = "https://discord.com/users/219561157327847424"
-    weight = 40
-
-[[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
